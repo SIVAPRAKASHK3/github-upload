@@ -1,0 +1,58 @@
+1.Neural Network Approach for Estimating State of Charge of Lithium-Ion Battery Using Backtracking Search Algorithm. 
+
+M. A. Hannan, M. S. H. Lipu, A. Hussain, M. H. Saad and A. Ayob, "Neural Network Approach for Estimating State of Charge of Lithium-Ion Battery Using Backtracking Search Algorithm," in IEEE Access, vol. 6, pp. 10069-10079, 2018, doi: 10.1109/ACCESS.2018.2797976.
+
+
+3.Batteries and Battery Management Systems for Electric Vehicles 
+
+M. Brandl et al., "Batteries and battery management systems for electric vehicles," 2012 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2012, pp. 971-976, doi: 10.1109/DATE.2012.6176637.
+
+3.Battery Management System Using State of Charge Estimation: An IOT Based Approach
+
+S. Haldar, S. Mondal, A. Mondal and R. Banerjee, "Battery Management System Using State of Charge Estimation: An IOT Based Approach," 2020 National Conference on Emerging Trends on Sustainable Technology and Engineering Applications (NCETSTEA), 2020, pp. 1-5, doi: 10.1109/NCETSTEA48365.2020.9119945.
+
+
+4.Prediction of State of Charge of Lithium-ion Rechargeable Battery with Electrochemical Impedance Spectroscopy Theory 
+
+Li Ran, Wu Junfeng, Wang Haiying and Li Gechen, "Prediction of state of charge of Lithium-ion rechargeable battery with electrochemical impedance spectroscopy theory," 2010 5th IEEE Conference on Industrial Electronics and Applications, 2010, pp. 684-688, doi: 10.1109/ICIEA.2010.5516984.
+
+
+5.Review on IOT based electric vehicle battery management system using LAB View. 
+
+International Journal of Future Generation Communication and Networking 
+ Vol. 13, No. 2s, (2020), pp. 574–580   
+ISSN: 2233-7857 IJFGCN Copyright ?2020 SERSC  574 
+Review on IOT based electric vehicle battery management system using LAB View. 
+ R. M. Vethekar1, A.B Chandgude 2, P. P. Kale3, S. S. Shanksrshetty4 
+
+6.IOT Based Battery Management System  
+
+International Journal of Applied Engineering Research ISSN 0973-4562 Volume 13, Number 8 (2018) pp. 5711-5714
+  IOT Based Battery Management System  
+Harish N1,    Prashal V2 and Dr. D. Sivakumar 3 
+
+7.An Internet of Things (IoT)-Based Network for Dispersed and Decentralized Wireless Battery Management Systems   
+
+T. Faika, T. Kim and M. Khan, "An Internet of Things (IoT)-Based Network for Dispersed and Decentralized Wireless Battery Management Systems," 2018 IEEE Transportation Electrification Conference and Expo (ITEC), 2018, pp. 1060-1064, doi: 10.1109/ITEC.2018.8450161.
+
+8.Robust and Adaptive Estimation of State of Charge for Lithium-Ion Batteries 
+
+C. Zhang, L. Y. Wang, X. Li, W. Chen, G. G. Yin and J. Jiang, "Robust and Adaptive Estimation of State of Charge for Lithium-Ion Batteries," in IEEE Transactions on Industrial Electronics, vol. 62, no. 8, pp. 4948-4957, Aug. 2015, doi: 10.1109/TIE.2015.2403796.
+
+9. IOT Based Battery Management System
+International Journal of Applied Engineering Research ISSN 0973-4562 Volume 13, Number 8 (2018) pp. 5711-5714 © Research India Publications.  http://www.ripublication.com 
+5711 
+ IOT Based Battery Management System 
+Harish N1,    Prashal V2 and Dr. D. Sivakumar 3 
+
+10.  Battery Management System (BMS) Simulation Environment for Electric Vehicles  
+
+L. Buccolini, A. Ricci, C. Scavongelli, G. DeMaso-Gentile, S. Orcioni and M. Conti, "Battery Management System (BMS) simulation environment for electric vehicles," 2016 IEEE 16th International Conference on Environment and Electrical Engineering (EEEIC), 2016, pp. 1-6, doi: 10.1109/EEEIC.2016.7555475.
+
+
+11.Innovations in Battery Management System of Electric Vehicles 
+
+International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET)  e-ISSN: 2319-8753, p-ISSN: 2347-6710| www.ijirset.com Impact Factor: 7.569  Volume 10, Issue 7, July 2021 |DOI:10.15680/IJIRSET.2021.1007253|
+
+
+A. El Mejdoubi, H. Chaoui, H. Gualous, P. Van Den Bossche, N. Omar and J. Van Mierlo, "Lithium-Ion Batteries Health Prognosis Considering Aging Conditions," in IEEE Transactions on Power Electronics, vol. 34, no. 7, pp. 6834-6844, July 2019, doi: 10.1109/TPEL.2018.2873247.

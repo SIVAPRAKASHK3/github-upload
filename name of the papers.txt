@@ -1,0 +1,10 @@
+1.Battery Energy Storage System (BESS) and Battery Management System (BMS) for Grid-Scale Applications
+2.Innovations in Battery Management System of Electric Vehicle
+3.Batteries and Battery Management Systems for Electric Vehicles 
+4.Battery Management System (BMS) Simulation Environment for Electric Vehicles 
+5.Battery Management System Using State of Charge Estimation: An IOT Based Approach 
+6.Neural Network Approach for Estimating State of Charge of Lithium-ion Battery Using Backtracking Search Algorithm 
+7.An Internet of Things (IoT)-Based Network for Dispersed and Decentralized Wireless Battery Management System
+8.Adaptive Estimation of the State of Charge for Lithium-Ion Batteries: Nonlinear Geometric Observer Approach
+9.Robust and Adaptive Estimation of State of Charge for Lithium-Ion Batteries 
+10.Lithium-ion Batteries Health Prognosis Considering Aging Condition

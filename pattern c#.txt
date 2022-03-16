@@ -1,0 +1,29 @@
+ 1 using System;
+    2 using System.Collections.Generic;
+    3 using System.Linq;
+    4 using System.Text;
+    5 using System.Threading.Tasks;
+    6 
+    7 namespace ProgFundamentals12                 //DO NOT CHANGE the name of namespace
+    8 {
+    9     public class Program                    //DO NOT CHANGE the name of class 'Program'
+   10     {
+   11         public static void Main(string[] args)   //DO NOT CHANGE 'Main' Signature
+   12         {
+   13            Console.WriteLine("Number of Rows : ");
+   14            int r=Convert.ToInt32(Console.ReadLine());
+   15            Console.WriteLine("Number of Symbols : ");
+   16            int s=Convert.ToInt32(Console.ReadLine());
+   17            for(int i=0;i<r;i++){
+   18                for(int j=0;j<s;j++){
+   19                    Console.WriteLine("/\");
+   20                    if(j==0 || j==s){
+   21                        Console.WriteLine("|");
+   22                    }
+   23                }
+   24            }
+   25           
+   26            
+   27         }
+   28     }
+   29 }

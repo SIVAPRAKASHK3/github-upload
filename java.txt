@@ -1,0 +1,27 @@
+cthechange.sa@gmail.com
+6383236619
+whatsapp-9442161065
+public class Solution {
+    public static void main(String args[] ) throws Exception {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+        Scanner sc=new Scanner(System.in);
+        int x=sc.nextInt();
+        boolean y=sc.hasNext();
+        if(y==false){
+            if(x==1||x==7){
+                System.out.println("6:00");
+            }
+            else{
+                System.out.println("5:00");
+            }
+        }
+        else{
+            if(x==1||x==7){
+                System.out.println("9:00");
+            }
+            else{
+                System.out.println("7:00");
+            }
+        }
+        }
+    }
